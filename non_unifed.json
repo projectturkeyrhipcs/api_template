@@ -3,7 +3,7 @@
 		"_link": {
 			"self": {"href": "url"},
 			"next": {"href": "url"},
-			"relation_name_1": {"href": "url""}
+			"relation_name_1": {"href": "url"}
 		},
 		"_type_resource": "индифицированный",
 	},
